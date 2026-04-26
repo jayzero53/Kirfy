@@ -1,0 +1,45 @@
+# Build output
+bin/
+obj/
+out/
+publish/
+TestResults/
+
+# User-specific files
+*.user
+*.rsuser
+*.suo
+*.userosscache
+*.sln.docstates
+*.DotSettings.user
+
+# Logs
+*.log
+logs/
+
+# NuGet
+*.nupkg
+*.snupkg
+.nuget/
+packages/
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# JetBrains / Rider
+.idea/
+*.iml
+.idea_modules/
+.fleet/
+
+# JetBrains caches and generated content
+_ReSharper*/
+*.[Rr]e[Ss]harper
+*.sln.iml
+
+# Local environment secrets
+.env
+.env.*
+!.env.example

@@ -1,0 +1,6 @@
+@kirfy_api_HostAddress = http://localhost:5179
+
+GET {{kirfy_api_HostAddress}}/api/artists/Drake/albums
+Accept: application/json
+
+###
